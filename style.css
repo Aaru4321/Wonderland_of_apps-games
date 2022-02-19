@@ -1,0 +1,35 @@
+#sec1{
+    background: linear-gradient(#ffb700 0%, #e82566 100%) ;
+    text-align: center;
+}
+ 
+#secapp{
+    background:linear-gradient(#1cd40f 0%, #0f99d4 100%);
+    text-align: center;
+}
+.line{
+ width: 70px;
+ height: 10px;
+ background-color: black;
+ margin: 8px auto;
+}
+#secgames{
+    background: linear-gradient(#fa4c07 0%, #aa2be0 100%) ;
+    text-align: center;
+}
+#secho{
+    background: linear-gradient(#f6ff00 0%, #ff0080 100%);
+    text-align: center;
+}
+#secmail{
+    background: cornsilk;
+
+}
+h1, h3{
+    font-family: 'Lobster', cursive;
+}
+
+h6{
+    font-family: 'Playfair Display', serif;
+    text-decoration: underline;
+}
